@@ -1,0 +1,1 @@
+Example of data cleaning. It takes the bank marketing dataset, and splits it into three dataframes. I reset the index of all files to be client_id. Added a datetime column to the campaings data, mapped new boolean values to columns where it made sense and exported the data to three separate files.
